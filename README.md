@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Edoardo
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... edop0413@gmail.com
+- 👋 ciao,sono Edoardo
+- 👀 tratto progetti python fatti da me.
+- 🌱 sto studiando python
+- 💞️ per contattarmi scrivete a infogithub@libero.it
+
 
 <!---
 edonziooo/edonziooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
